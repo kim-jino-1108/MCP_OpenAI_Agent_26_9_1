@@ -1,0 +1,422 @@
+- generic [active] [ref=f2e1]:
+  - generic:
+    - generic:
+      - link "주요 콘텐츠로 이동" [ref=f2e2] [cursor=pointer]
+      - link "접근성 도움말" [ref=f2e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=ko
+  - generic [ref=f2e8]:
+    - search [ref=f2e9]:
+      - generic [ref=f2e12]:
+        - link [ref=f2e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=ko&ictx=0&sa=X&ved=0ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQpYkNCAo
+          - img "Google 홈으로 이동" [ref=f2e14]
+        - generic [ref=f2e19]:
+          - combobox "검색" [ref=f2e22]: Banoffee Pie recipe Banoffee Pie recipe
+          - generic [ref=f2e23]:
+            - button "지우기" [ref=f2e25] [cursor=pointer]
+            - generic [ref=f2e30]:
+              - button "입력 도구" [ref=f2e31] [cursor=pointer]
+              - button "음성 검색" [ref=f2e35] [cursor=pointer]
+              - button "이미지로 검색" [ref=f2e38] [cursor=pointer]
+        - button "검색" [ref=f2e41] [cursor=pointer]
+    - generic [ref=f2e46]:
+      - button "설정" [ref=f2e48] [cursor=pointer]
+      - button "공유" [ref=f2e54] [cursor=pointer]
+      - generic [ref=f2e60]:
+        - button "Google 앱" [ref=f2e62] [cursor=pointer]
+        - link "로그인" [ref=f2e67] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=ko&passive=true&continue=https://www.google.com/search%3Fq%3DBanoffee%2BPie%2Brecipe%26sei%3DIZ6WapGdPLXc1e8Pjty7wQ8&ec=futura_srp_og_si_72236_p
+  - generic [ref=f2e69]:
+    - navigation [ref=f2e75]:
+      - generic [ref=f2e81]:
+        - list [ref=f2e82]:
+          - listitem [ref=f2e83]:
+            - link "AI 모드" [ref=f2e86] [cursor=pointer]:
+              - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&udm=50&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XootdBl0GEfEJuyzsMSQ-ST5T3LTL7ohyLP_KGwFHOfE3GkpubGzUb4sHnUlteC7E0rHhBNQ0kwm5J2tLJZCQEycT04guP19YpWALvWphHPd0ArTKl7vAjd2_gDJG_znOqJ3EjlStGCQU1YhGbjuR9XaFE7slC4WU2HBHrjAyZrZap7QimmoaNxAnFPwCrX7kes-0dBw&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ2J8OegQIFRAD
+          - listitem [ref=f2e90]:
+            - link "전체" [disabled] [ref=f2e91]
+          - listitem [ref=f2e94]:
+            - link "짧은 동영상" [ref=f2e95] [cursor=pointer]:
+              - /url: /search?sca_esv=89f92e0cb398e070&udm=39&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XootdBl0GEfEJuyzsMSQ-ST5T3LTL7ohyLP_KGwFHOfE3GkpubGzUb4sHnUlteC7E0rHhBNQ0kwm5J2tLJZCQEycT04guP19YpWALvWphHPd0ArTKl7vAjd2_gDJG_znOqJ3EjlStGCQU1YhGbjuR9XaFE7slC4WU2HBHrjAyZrZap7QimmoaNxAnFPwCrX7kes-0dBw&q=Banoffee+Pie+recipe&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQs6gLegQIGhAB
+          - listitem [ref=f2e98]:
+            - link "이미지" [ref=f2e99] [cursor=pointer]:
+              - /url: /search?sca_esv=89f92e0cb398e070&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XootdBl0GEfEJuyzsMSQ-ST5T3LTL7ohyLP_KGwFHOfE3GkpubGzUb4sHnUlteC7E0rHhBNQ0kwm5J2tLJZCQEycT04guP19YpWALvWphHPd0ArTKl7vAjd2_gDJG_znOqJ3EjlStGCQU1YhGbjuR9XaFE7slC4WU2HBHrjAyZrZap7QimmoaNxAnFPwCrX7kes-0dBw&q=Banoffee+Pie+recipe&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQtKgLegQIGBAB
+          - listitem [ref=f2e102]:
+            - link "동영상" [ref=f2e103] [cursor=pointer]:
+              - /url: /search?sca_esv=89f92e0cb398e070&udm=7&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XootdBl0GEfEJuyzsMSQ-ST5T3LTL7ohyLP_KGwFHOfE3GkpubGzUb4sHnUlteC7E0rHhBNQ0kwm5J2tLJZCQEycT04guP19YpWALvWphHPd0ArTKl7vAjd2_gDJG_znOqJ3EjlStGCQU1YhGbjuR9XaFE7slC4WU2HBHrjAyZrZap7QimmoaNxAnFPwCrX7kes-0dBw&q=Banoffee+Pie+recipe&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQtKgLegQIFxAB
+          - listitem [ref=f2e106]:
+            - link "쇼핑" [ref=f2e107] [cursor=pointer]:
+              - /url: /search?sca_esv=89f92e0cb398e070&udm=28&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XootdBl0GEfEJuyzsMSQ-ST5T3LTL7ohyLP_KGwFHOfE3GkpubGzUb4sHnUlteC7E0rHhBNQ0kwm5J2tLJZCQEycT04guP19YpWALvWphHPd0ArTKl7vAjd2_gDJG_znOqJ3EjlStGCQU1YhGbjuR9XaFE7slC4WU2HBHrjAyZrZap7QimmoaNxAnFPwCrX7kes-0dBw&q=Banoffee+Pie+recipe&ved=1t:220175&ictx=111
+          - listitem [ref=f2e110]:
+            - link "뉴스" [ref=f2e111] [cursor=pointer]:
+              - /url: /search?sca_esv=89f92e0cb398e070&q=Banoffee+Pie+recipe&tbm=nws&source=lnms&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XootdBl0GEfEJuyzsMSQ-ST5T3LTL7ohyLP_KGwFHOfE3GkpubGzUb4sHnUlteC7E0rHhBNQ0kwm5J2tLJZCQEycT04guP19YpWALvWphHPd0ArTKl7vAjd2_gDJG_znOqJ3EjlStGCQU1YhGbjuR9XaFE7slC4WU2HBHrjAyZrZap7QimmoaNxAnFPwCrX7kes-0dBw&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ0pQJegQIGRAB
+          - listitem [ref=f2e114]:
+            - button [ref=f2e115] [cursor=pointer]:
+              - generic "필터 더보기" [ref=f2e116]: 더보기
+        - button "도구" [ref=f2e123] [cursor=pointer]
+    - heading "검색결과" [level=1] [ref=f2e131]
+    - main [ref=f2e137]:
+      - generic [ref=f2e141]:
+        - generic [ref=f2e144]:
+          - heading "Web results" [level=2] [ref=f2e145]
+          - generic [ref=f2e146]:
+            - generic [ref=f2e149]:
+              - link "Banoffee Pie Recipe Sally's Baking Addiction https://sallysbakingaddiction.com › banoffee-pie" [ref=f2e151] [cursor=pointer]:
+                - /url: /goto?url=CAESZwHrOzAVkI-DKexSTPZ1gYfh2vmq5WRgOYl9qU4GVizIN7HTt96H_RGh1oel8gTY7tjSsBQeddu7F1AWmFrJKryPM443KgR7Zcsd_LDEfBYizZo9gFqCTOALobJaE9sV016E1HPWeWk
+                - heading "Banoffee Pie Recipe" [level=3] [ref=f2e152]
+                - generic [ref=f2e158]:
+                  - generic [ref=f2e159]: Sally's Baking Addiction
+                  - generic [ref=f2e161]: https://sallysbakingaddiction.com › banoffee-pie
+              - button "검색결과에 관한 정보" [ref=f2e167] [cursor=pointer]
+            - link [aria-hidden] [ref=f2e174] [cursor=pointer]:
+              - /url: /goto?url=CAESZwHrOzAVkI-DKexSTPZ1gYfh2vmq5WRgOYl9qU4GVizIN7HTt96H_RGh1oel8gTY7tjSsBQeddu7F1AWmFrJKryPM443KgR7Zcsd_LDEfBYizZo9gFqCTOALobJaE9sV016E1HPWeWk
+            - generic [ref=f2e178]:
+              - generic [ref=f2e179]: 2022. 1. 19. —
+              - generic [ref=f2e180]:
+                - text: This
+                - emphasis [ref=f2e181]: easy banoffee pie
+                - text: combines a crunchy graham cracker crust, sweet dulce de leche, thick slices of fresh banana, and billowy whipped ...
+            - generic [ref=f2e183]:
+              - img "별 5개 중 4.8개 사용자 리뷰 (38)개" [ref=f2e184]: 4.8(38)
+              - text: · 3시간 35분
+        - generic [ref=f2e188]:
+          - generic [ref=f2e194]:
+            - heading "레시피" [level=3] [ref=f2e196]
+            - generic [ref=f2e198]:
+              - generic [ref=f2e199]:
+                - generic [ref=f2e203]:
+                  - link "Easy banoffee pie BBC Good Food 별 5개 중 4.0개 사용자 리뷰 93개 25분" [ref=f2e205] [cursor=pointer]:
+                    - /url: /goto?url=CAESbQHrOzAVtLzCBV8jo_MATBkktyPzt-96-X0S6ZfgWXtdB2vcLzHWarCD3TuJXZa6cuUucD6VyObgiGTApCZ49PzvOu_Id1MHuIP-jZRit5MUIaEYfuQO-e-ptoAfPrWn95_OQr7afGfRB-gMtVs
+                    - generic [ref=f2e211]:
+                      - heading "Easy banoffee pie" [level=3] [ref=f2e212]
+                      - generic [ref=f2e213]: BBC Good Food
+                      - img "별 5개 중 4.0개 사용자 리뷰 93개" [ref=f2e217]: 4.0(93)
+                      - generic [ref=f2e221]: 25분
+                  - button "저장 목록에 Easy banoffee pie 추가" [ref=f2e224]:
+                    - generic [ref=f2e225] [cursor=pointer]
+                - generic [ref=f2e233]:
+                  - link "Banoffee Pie Taming Twins 별 5개 중 5.0개 사용자 리뷰 52개 1시간 30분" [ref=f2e235] [cursor=pointer]:
+                    - /url: /goto?url=CAESaAHrOzAVRM4dJR5VKaoK0wN_gHVJGBclqIU9CT5VKzAo95opO4S-fwEdaftE3Nf7qEjy1rLEN764U7-HR45C3mQZp2qd_lZ37NRvKx2t88xBo6VrItez9nHxNyXx0cTDZS_v_ipefGSx
+                    - generic [ref=f2e241]:
+                      - heading "Banoffee Pie" [level=3] [ref=f2e242]
+                      - generic [ref=f2e243]: Taming Twins
+                      - img "별 5개 중 5.0개 사용자 리뷰 52개" [ref=f2e247]: 5.0(52)
+                      - generic [ref=f2e251]: 1시간 30분
+                  - button "저장 목록에 Banoffee Pie 추가" [ref=f2e254]:
+                    - generic [ref=f2e255] [cursor=pointer]
+                - generic [ref=f2e263]:
+                  - link "Banoffee Pie Sally's Baking Addiction 별 5개 중 4.8개 사용자 리뷰 38개 3시간 35분" [ref=f2e265] [cursor=pointer]:
+                    - /url: /goto?url=CAESZwHrOzAVkI-DKexSTPZ1gYfh2vmq5WRgOYl9qU4GVizIN7HTt96H_RGh1oel8gTY7tjSsBQeddu7F1AWmFrJKryPM443KgR7Zcsd_LDEfBYizZo9gFqCTOALobJaE9sV016E1HPWeWk
+                    - generic [ref=f2e271]:
+                      - heading "Banoffee Pie" [level=3] [ref=f2e272]
+                      - generic [ref=f2e273]: Sally's Baking Addiction
+                      - img "별 5개 중 4.8개 사용자 리뷰 38개" [ref=f2e277]: 4.8(38)
+                      - generic [ref=f2e281]: 3시간 35분
+                  - button "저장 목록에 Banoffee Pie 추가" [ref=f2e284]:
+                    - generic [ref=f2e285] [cursor=pointer]
+              - button "더보기" [ref=f2e292] [cursor=pointer]:
+                - separator [aria-hidden] [ref=f2e293]
+          - generic [ref=f2e304]:
+            - generic [ref=f2e307]:
+              - link "Easy banoffee pie recipe Good Food https://www.bbcgoodfood.com › Recipes" [ref=f2e309] [cursor=pointer]:
+                - /url: /goto?url=CAESbQHrOzAVtLzCBV8jo_MATBkktyPzt-96-X0S6ZfgWXtdB2vcLzHWarCD3TuJXZa6cuUucD6VyObgiGTApCZ49PzvOu_Id1MHuIP-jZRit5MUIaEYfuQO-e-ptoAfPrWn95_OQr7afGfRB-gMtVs
+                - heading "Easy banoffee pie recipe" [level=3] [ref=f2e310]
+                - generic [ref=f2e316]:
+                  - generic [ref=f2e317]: Good Food
+                  - generic [ref=f2e319]: https://www.bbcgoodfood.com › Recipes
+              - button "검색결과에 관한 정보" [ref=f2e325] [cursor=pointer]
+            - generic [ref=f2e332]:
+              - text: Treat loved ones to a banoffee pie for dessert featuring a
+              - emphasis [ref=f2e333]: classic biscuit base, oozy caramel, bananas, cream and chocolate
+              - text: . Who could resist?
+            - link [aria-hidden] [ref=f2e336] [cursor=pointer]:
+              - /url: /goto?url=CAESbQHrOzAVtLzCBV8jo_MATBkktyPzt-96-X0S6ZfgWXtdB2vcLzHWarCD3TuJXZa6cuUucD6VyObgiGTApCZ49PzvOu_Id1MHuIP-jZRit5MUIaEYfuQO-e-ptoAfPrWn95_OQr7afGfRB-gMtVs
+            - generic [ref=f2e340]:
+              - img "별 5개 중 4.0개 사용자 리뷰 (93)개" [ref=f2e341]: 4.0(93)
+              - text: · 25분
+          - generic [ref=f2e348]:
+            - generic [ref=f2e351]:
+              - link "Classic Banoffee Pie Recipe Carnation UK https://www.carnation.co.uk › recipes › classic-banoffee..." [ref=f2e353] [cursor=pointer]:
+                - /url: /goto?url=CAESdwHrOzAVbIzKy4NCV_wQUaubWZsQkih82St6c_qrQLw_n05OHZd5s66XknJzVbY9msQ7MUwv-BLPN_p-bZ0fvCeop9Ekc25yNQ48nZDIinWPcOMNjsIfSPitt2ctovGBBwfkAawwTkl0DgtjjG_shSXAOTfxuHZf
+                - heading "Classic Banoffee Pie Recipe" [level=3] [ref=f2e354]
+                - generic [ref=f2e360]:
+                  - generic [ref=f2e361]: Carnation UK
+                  - generic [ref=f2e363]: https://www.carnation.co.uk › recipes › classic-banoffee...
+              - button "검색결과에 관한 정보" [ref=f2e369] [cursor=pointer]
+            - generic [ref=f2e376]:
+              - text: Making this instantly recognisable dessert is easy with Carnation! Get our
+              - emphasis [ref=f2e377]: Classic Banoffee Pie recipe
+              - text: here and whip up a homemade treat that tastes great.
+            - link [aria-hidden] [ref=f2e380] [cursor=pointer]:
+              - /url: /goto?url=CAESdwHrOzAVbIzKy4NCV_wQUaubWZsQkih82St6c_qrQLw_n05OHZd5s66XknJzVbY9msQ7MUwv-BLPN_p-bZ0fvCeop9Ekc25yNQ48nZDIinWPcOMNjsIfSPitt2ctovGBBwfkAawwTkl0DgtjjG_shSXAOTfxuHZf
+            - generic [ref=f2e383]: 20분
+          - generic [ref=f2e388]:
+            - generic [ref=f2e391]:
+              - 'link "Banoffee Pie {Foolproof Recipe!} Taming Twins https://www.tamingtwins.com › ... › Desserts" [ref=f2e393] [cursor=pointer]':
+                - /url: /goto?url=CAESaAHrOzAVRM4dJR5VKaoK0wN_gHVJGBclqIU9CT5VKzAo95opO4S-fwEdaftE3Nf7qEjy1rLEN764U7-HR45C3mQZp2qd_lZ37NRvKx2t88xBo6VrItez9nHxNyXx0cTDZS_v_ipefGSx
+                - 'heading "Banoffee Pie {Foolproof Recipe!}" [level=3] [ref=f2e394]'
+                - generic [ref=f2e400]:
+                  - generic [ref=f2e401]: Taming Twins
+                  - generic [ref=f2e403]: https://www.tamingtwins.com › ... › Desserts
+              - button "검색결과에 관한 정보" [ref=f2e409] [cursor=pointer]
+            - generic [ref=f2e415]:
+              - generic [ref=f2e416]: 2026. 3. 16. —
+              - generic [ref=f2e417]:
+                - text: This is
+                - emphasis [ref=f2e418]: Banoffee Pie
+                - text: is a tried & tested, foolproof recipe that is delicious every time. Buttery biscuit & rich homemade caramel, oh hello!
+            - link [aria-hidden] [ref=f2e421] [cursor=pointer]:
+              - /url: /goto?url=CAESaAHrOzAVRM4dJR5VKaoK0wN_gHVJGBclqIU9CT5VKzAo95opO4S-fwEdaftE3Nf7qEjy1rLEN764U7-HR45C3mQZp2qd_lZ37NRvKx2t88xBo6VrItez9nHxNyXx0cTDZS_v_ipefGSx
+            - generic [ref=f2e425]:
+              - img "별 5개 중 5.0개 사용자 리뷰 (53)개" [ref=f2e426]: 5.0(53)
+              - text: · 1시간 30분
+          - generic [ref=f2e433]:
+            - generic [ref=f2e436]:
+              - link "Banoffee Pie Recipe Pinch of Yum https://pinchofyum.com › banoffee-pie" [ref=f2e438] [cursor=pointer]:
+                - /url: /goto?url=CAESWwHrOzAVSz6ZwuVUY0fwGsp6sUMxa5RgvGUzyoG7yLSNvMqB3SVn2JFleRs12Vau3zrDijCWNBTsTIwZSOJ6FzEXtHFxojc_LyrvAaPlAOtEWHC7HbYfizFyuVo
+                - heading "Banoffee Pie Recipe" [level=3] [ref=f2e439]
+                - generic [ref=f2e445]:
+                  - generic [ref=f2e446]: Pinch of Yum
+                  - generic [ref=f2e448]: https://pinchofyum.com › banoffee-pie
+              - button "검색결과에 관한 정보" [ref=f2e454] [cursor=pointer]
+            - generic [ref=f2e460]:
+              - generic [ref=f2e461]: 2026. 4. 8. —
+              - generic [ref=f2e462]:
+                - text: This
+                - emphasis [ref=f2e463]: banoffee pie recipe
+                - text: features a graham cracker crust, silky toffee filling, sliced bananas, and whipped cream.
+            - link [aria-hidden] [ref=f2e466] [cursor=pointer]:
+              - /url: /goto?url=CAESWwHrOzAVSz6ZwuVUY0fwGsp6sUMxa5RgvGUzyoG7yLSNvMqB3SVn2JFleRs12Vau3zrDijCWNBTsTIwZSOJ6FzEXtHFxojc_LyrvAaPlAOtEWHC7HbYfizFyuVo
+            - generic [ref=f2e470]:
+              - img "별 5개 중 4.8개 사용자 리뷰 (55)개" [ref=f2e471]: 4.8(55)
+              - text: · 2시간 25분
+          - generic [ref=f2e479]:
+            - heading "관련 질문" [level=2] [ref=f2e481]
+            - generic [ref=f2e482]:
+              - button "What are the main ingredients of banoffee pie?" [ref=f2e488] [cursor=pointer]
+              - button "What do Americans call banoffee pie?" [ref=f2e502] [cursor=pointer]
+              - button "What is Jamie Oliver's banoffee pie recipe?" [ref=f2e516] [cursor=pointer]
+              - button "What is the difference between banana cream pie and banoffee pie?" [ref=f2e530] [cursor=pointer]
+          - generic [ref=f2e541]:
+            - generic [ref=f2e543]:
+              - heading "동영상" [level=2] [ref=f2e544]
+              - button "검색결과에 관한 정보" [ref=f2e549] [cursor=pointer]
+            - generic [ref=f2e555]:
+              - generic [ref=f2e562]:
+                - generic [ref=f2e563]:
+                  - link [ref=f2e565] [cursor=pointer]:
+                    - /url: /goto?url=CAESYwHrOzAV7uX_51jCA9rzyhdNtjJ_CNZfVlJX9n6QN4u0GY8t2jAEyBokLRoFh8GyRDkauZegsE6cFSQiL-sx25vneIRW4J1SHsrelV7HOHYMdPas1wbhF9KkFhoBKM0n9P1PLA
+                    - heading "Easy Banoffee Pie Recipe YouTube Preppy Kitchen 2025. 8. 27." [level=3] [ref=f2e566]:
+                      - generic [ref=f2e567]: Easy Banoffee Pie Recipe
+                      - generic [ref=f2e571]:
+                        - generic [ref=f2e572]:
+                          - text: YouTube
+                          - generic [ref=f2e573]: · Preppy Kitchen
+                        - generic [ref=f2e574]: 2025. 8. 27.
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic [aria-hidden]:
+                            - text: YouTube
+                            - generic: · Preppy Kitchen
+                      - button "검색결과에 관한 정보" [ref=f2e578] [cursor=pointer]
+                - button "Preppy Kitchen님이 YouTube에 게시한 Easy Banoffee Pie Recipe. Google에서 재생. 11:12" [ref=f2e583] [cursor=pointer]:
+                  - generic [ref=f2e593]: 11:12
+              - generic [ref=f2e604]:
+                - generic [ref=f2e605]:
+                  - link [ref=f2e607] [cursor=pointer]:
+                    - /url: /goto?url=CAESYwHrOzAVqwjPMLW0LsZTkrwrCJUpylvlYG4XlntDxrkF2S9VRDq2LOIj1yBx8mETJ5mFUFByKrfby3UW0vNqSHiAgBUpnwrHh_tuO981m7jwD0-vr8EXv69965fVfvWVbYb9Rg
+                    - heading "Banoffee Pie Recipe YouTube The Cooking Foodie 2024. 2. 1." [level=3] [ref=f2e608]:
+                      - generic [ref=f2e609]: Banoffee Pie Recipe
+                      - generic [ref=f2e613]:
+                        - generic [ref=f2e614]:
+                          - text: YouTube
+                          - generic [ref=f2e615]: · The Cooking Foodie
+                        - generic [ref=f2e616]: 2024. 2. 1.
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic [aria-hidden]:
+                            - text: YouTube
+                            - generic: · The Cooking Foodie
+                      - button "검색결과에 관한 정보" [ref=f2e620] [cursor=pointer]
+                - button "The Cooking Foodie님이 YouTube에 게시한 Banoffee Pie Recipe. Google에서 재생. 2:54" [ref=f2e625] [cursor=pointer]:
+                  - generic [ref=f2e632]: 2:54
+              - generic [ref=f2e644]:
+                - generic [ref=f2e645]:
+                  - link [ref=f2e647] [cursor=pointer]:
+                    - /url: /goto?url=CAESaQHrOzAV1C80y9EmLUZN6vljvQzBDgeoqxSBhT5RkoAQ46uHdUw1m_gaLahA0mxum-5PXhvYh42Gvvtv9W0mTign1pk_7pc5z54IbhmHPk3jh0LBAbAculMeHoMb8b9TvpVsweyOMYa43g
+                    - heading "Easy No-Bake Banoffee Pie | Mary Berry Dessert Recipe YouTube Mary Berry 2026. 5. 13." [level=3] [ref=f2e648]:
+                      - generic [ref=f2e649]: Easy No-Bake Banoffee Pie | Mary Berry Dessert Recipe
+                      - generic [ref=f2e653]:
+                        - generic [ref=f2e654]:
+                          - text: YouTube
+                          - generic [ref=f2e655]: · Mary Berry
+                        - generic [ref=f2e656]: 2026. 5. 13.
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic [aria-hidden]:
+                            - text: YouTube
+                            - generic: · Mary Berry
+                      - button "검색결과에 관한 정보" [ref=f2e660] [cursor=pointer]
+                - button "Mary Berry님이 YouTube에 게시한 Easy No-Bake Banoffee Pie | Mary Berry Dessert Recipe. Google에서 재생. 3:15" [ref=f2e665] [cursor=pointer]:
+                  - generic [ref=f2e675]: 3:15
+              - generic [ref=f2e685]:
+                - generic [ref=f2e686]:
+                  - link [ref=f2e688] [cursor=pointer]:
+                    - /url: /goto?url=CAESywEB6zswFSkv2TKsQ6H3VHbWqTPbJVp4u103NA301YkY-3E8s3x9S1YjPvo9DOn5PoYM6ShkNqWgZkfV1arxOVfEkKa3-JkiRfLa3bk7xwZWqBAIZBR1C9C-XlVliHN34VlYekz-UAlHKSiUJ7fupDjIRrxleCWgvcQ3A9Yx2-FPqZDFL0OLoX-tB86cD8dNNayg5fxyTxNepIqQAgL48KOsqr_uUtRDOt_5fcj6okujVANZUtMA7NgslYxhzrLtmsdjtEqb96h57Dyodw
+                    - heading "Mary Berry's banoffee pie is a classic dessert recipe featuring ... Facebook Mary Berry the cook 2026. 5. 13." [level=3] [ref=f2e689]:
+                      - generic [ref=f2e690]: Mary Berry's banoffee pie is a classic dessert recipe featuring ...
+                      - generic [ref=f2e694]:
+                        - generic [ref=f2e695]:
+                          - text: Facebook
+                          - generic [ref=f2e696]: · Mary Berry the cook
+                        - generic [ref=f2e697]: 2026. 5. 13.
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic [aria-hidden]:
+                            - text: Facebook
+                            - generic: · Mary Berry the cook
+                      - button "검색결과에 관한 정보" [ref=f2e701] [cursor=pointer]
+                - link "Mary Berry the cook님이 Facebook에 게시한 Mary Berry's banoffee pie is a classic dessert recipe featuring .... Facebook에서 재생. 2:59" [ref=f2e706] [cursor=pointer]:
+                  - /url: /goto?url=CAESywEB6zswFSkv2TKsQ6H3VHbWqTPbJVp4u103NA301YkY-3E8s3x9S1YjPvo9DOn5PoYM6ShkNqWgZkfV1arxOVfEkKa3-JkiRfLa3bk7xwZWqBAIZBR1C9C-XlVliHN34VlYekz-UAlHKSiUJ7fupDjIRrxleCWgvcQ3A9Yx2-FPqZDFL0OLoX-tB86cD8dNNayg5fxyTxNepIqQAgL48KOsqr_uUtRDOt_5fcj6okujVANZUtMA7NgslYxhzrLtmsdjtEqb96h57Dyodw
+                  - generic [ref=f2e713]: 2:59
+            - link "모든 동영상 보기" [ref=f2e717] [cursor=pointer]:
+              - /url: /search?sca_esv=89f92e0cb398e070&udm=7&q=Banoffee+Pie+recipe&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8ccDKAJ6BAhWEAU
+              - separator [aria-hidden] [ref=f2e718]
+              - generic [ref=f2e719]: 모두 보기
+          - generic [ref=f2e727]:
+            - generic [ref=f2e730]:
+              - link "Mary Berry's banoffee pie recipe BBC https://www.bbc.co.uk › banoffeepiewithpecan_86926" [ref=f2e732] [cursor=pointer]:
+                - /url: /goto?url=CAESdQHrOzAViVxxBADh0yjmIk5rnSP-OfWXdqG6VtQwFfmDXm4goBglY-DWWcEJTamwKE3iXNhwhKgDWQ9Kei32P9VWLBXhSbAD7W9gBHRvDewW4p3ZK22h44c3eEDcoLWrlvfTC4FspPxzZ87dPU3bbsqhQbSJ3w
+                - heading "Mary Berry's banoffee pie recipe" [level=3] [ref=f2e733]
+                - generic [ref=f2e739]:
+                  - generic [ref=f2e740]: BBC
+                  - generic [ref=f2e742]: https://www.bbc.co.uk › banoffeepiewithpecan_86926
+              - button "검색결과에 관한 정보" [ref=f2e748] [cursor=pointer]
+            - generic [ref=f2e755]:
+              - emphasis [ref=f2e756]: For the toffee filling
+              - text: · 75g/2¾oz butter · 75g/2¾oz light muscovado sugar · 397g/14oz tin full-fat condensed milk (see tip) · 1 tsp vanilla extract ...
+            - link [aria-hidden] [ref=f2e759] [cursor=pointer]:
+              - /url: /goto?url=CAESdQHrOzAViVxxBADh0yjmIk5rnSP-OfWXdqG6VtQwFfmDXm4goBglY-DWWcEJTamwKE3iXNhwhKgDWQ9Kei32P9VWLBXhSbAD7W9gBHRvDewW4p3ZK22h44c3eEDcoLWrlvfTC4FspPxzZ87dPU3bbsqhQbSJ3w
+            - generic [ref=f2e763]:
+              - img "별 5개 중 3.9개 사용자 리뷰 (42)개" [ref=f2e764]: 3.9(42)
+              - text: · 1시간 30분
+          - generic [ref=f2e771]:
+            - generic [ref=f2e774]:
+              - link "Best-ever Banoffee Pie - Recipes - Hairy Bikers hairybikers.com https://www.hairybikers.com › recipes › view › best-ev..." [ref=f2e776] [cursor=pointer]:
+                - /url: /goto?url=CAESdwHrOzAVInTC9pMlEBI1-iZ9vO6Roi6DBOddiftDv_mc4YbHD10fOTDePvkINc0046y-6zkCCib_ZbI2l2D3IQW46EMAt3Ceb9X-gH209A5_3q3CLXwqIyBSFzJ6e119vbTnZnVETPEDXHMpRkjxGq-mKi7V7mh7
+                - heading "Best-ever Banoffee Pie - Recipes - Hairy Bikers" [level=3] [ref=f2e777]
+                - generic [ref=f2e783]:
+                  - generic [ref=f2e784]: hairybikers.com
+                  - generic [ref=f2e786]: https://www.hairybikers.com › recipes › view › best-ev...
+              - button "검색결과에 관한 정보" [ref=f2e792] [cursor=pointer]
+            - generic [ref=f2e799]:
+              - text: To make the base,
+              - emphasis [ref=f2e800]: melt the butter in a small pan
+              - text: . Break the biscuits into chunky pieces and blitz them to crumbs in a food processor. With the motor running, ...
+            - link [aria-hidden] [ref=f2e803] [cursor=pointer]:
+              - /url: /goto?url=CAESdwHrOzAVInTC9pMlEBI1-iZ9vO6Roi6DBOddiftDv_mc4YbHD10fOTDePvkINc0046y-6zkCCib_ZbI2l2D3IQW46EMAt3Ceb9X-gH209A5_3q3CLXwqIyBSFzJ6e119vbTnZnVETPEDXHMpRkjxGq-mKi7V7mh7
+          - generic [ref=f2e809]:
+            - generic [ref=f2e812]:
+              - link "Banoffee Pie! Jane's Patisserie https://www.janespatisserie.com › 2022/07/04 › banoffe..." [ref=f2e814] [cursor=pointer]:
+                - /url: /goto?url=CAEScAHrOzAVzDVpxiBI0d3mpzVjtlytPGoTw-TrP-ud7aataM1E6M7uTWN3YvAeESs5TEcUtSxhEDAwclnKkKcqHgEuBR0NwHpGcu2Knzf0bvurlaYcH7zqKpdF5Tj4xD_c17jEmEuVLLG8k0wdDMLFnHQ
+                - heading "Banoffee Pie!" [level=3] [ref=f2e815]
+                - generic [ref=f2e821]:
+                  - generic [ref=f2e822]: Jane's Patisserie
+                  - generic [ref=f2e824]: https://www.janespatisserie.com › 2022/07/04 › banoffe...
+              - button "검색결과에 관한 정보" [ref=f2e830] [cursor=pointer]
+            - generic [ref=f2e836]:
+              - generic [ref=f2e837]: 2022. 7. 4. —
+              - generic [ref=f2e838]:
+                - emphasis [ref=f2e839]: A delicious and easy no-bake banoffee pie
+                - text: "! A delicious classic of a biscuit base, caramel, banana, cream and more!"
+            - link [aria-hidden] [ref=f2e842] [cursor=pointer]:
+              - /url: /goto?url=CAEScAHrOzAVzDVpxiBI0d3mpzVjtlytPGoTw-TrP-ud7aataM1E6M7uTWN3YvAeESs5TEcUtSxhEDAwclnKkKcqHgEuBR0NwHpGcu2Knzf0bvurlaYcH7zqKpdF5Tj4xD_c17jEmEuVLLG8k0wdDMLFnHQ
+            - generic [ref=f2e846]:
+              - img "별 5개 중 5.0개 사용자 리뷰 (1)개" [ref=f2e847]: 5.0(1)
+              - text: · 4시간 45분
+      - generic [ref=f2e852]:
+        - generic [ref=f2e857]:
+          - heading "관련 검색어" [level=2] [ref=f2e859]
+          - generic [ref=f2e861]:
+            - generic [ref=f2e862]:
+              - link "Easy banoffee pie recipe" [ref=f2e866] [cursor=pointer]:
+                - /url: /search?sca_esv=89f92e0cb398e070&q=Easy+banoffee+pie+recipe&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ1QJ6BAgkEAE
+              - link "Best banoffee pie recipe" [ref=f2e880] [cursor=pointer]:
+                - /url: /search?sca_esv=89f92e0cb398e070&q=Best+banoffee+pie+recipe&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ1QJ6BAg1EAE
+              - link "Small banoffee pie recipe" [ref=f2e894] [cursor=pointer]:
+                - /url: /search?sca_esv=89f92e0cb398e070&q=Small+banoffee+pie+recipe&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ1QJ6BAgzEAE
+              - link "Banoffee pie recipe Rick Stein" [ref=f2e908] [cursor=pointer]:
+                - /url: /search?sca_esv=89f92e0cb398e070&q=Banoffee+pie+recipe+Rick+Stein&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ1QJ6BAgyEAE
+            - generic [ref=f2e919]:
+              - link "Banoffee pie recipe with condensed milk" [ref=f2e923] [cursor=pointer]:
+                - /url: /search?sca_esv=89f92e0cb398e070&q=Banoffee+pie+recipe+with+condensed+milk&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ1QJ6BAgrEAE
+              - link "Banoffee pie recipe Jamie Oliver" [ref=f2e937] [cursor=pointer]:
+                - /url: /search?sca_esv=89f92e0cb398e070&q=Banoffee+pie+recipe+Jamie+Oliver&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ1QJ6BAgpEAE
+              - link "Healthy Banoffee pie recipe" [ref=f2e951] [cursor=pointer]:
+                - /url: /search?sca_esv=89f92e0cb398e070&q=Healthy+Banoffee+pie+recipe&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ1QJ6BAgnEAE
+              - link "Classic banoffee pie recipe" [ref=f2e965] [cursor=pointer]:
+                - /url: /search?sca_esv=89f92e0cb398e070&q=Classic+banoffee+pie+recipe&sa=X&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ1QJ6BAgmEAE
+        - navigation [ref=f2e976]:
+          - heading "페이지 탐색" [level=1] [ref=f2e977]
+          - text: "1"
+          - link "Page 2" [ref=f2e980] [cursor=pointer]:
+            - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=10&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8tMDegQIURAE
+            - text: "2"
+          - link "Page 3" [ref=f2e982] [cursor=pointer]:
+            - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=20&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8tMDegQIURAG
+            - text: "3"
+          - link "Page 4" [ref=f2e984] [cursor=pointer]:
+            - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=30&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8tMDegQIURAI
+            - text: "4"
+          - link "Page 5" [ref=f2e986] [cursor=pointer]:
+            - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=40&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8tMDegQIURAK
+            - text: "5"
+          - link "Page 6" [ref=f2e988] [cursor=pointer]:
+            - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=50&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8tMDegQIURAM
+            - text: "6"
+          - link "Page 7" [ref=f2e990] [cursor=pointer]:
+            - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=60&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8tMDegQIURAO
+            - text: "7"
+          - link "Page 8" [ref=f2e992] [cursor=pointer]:
+            - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=70&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8tMDegQIURAQ
+            - text: "8"
+          - link "Page 9" [ref=f2e994] [cursor=pointer]:
+            - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=80&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8tMDegQIURAS
+            - text: "9"
+          - link "Page 10" [ref=f2e996] [cursor=pointer]:
+            - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=90&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8tMDegQIURAU
+            - text: "10"
+          - heading [level=2] [ref=f2e998]:
+            - link "다음" [ref=f2e999] [cursor=pointer]:
+              - /url: /search?q=Banoffee+Pie+recipe&sca_esv=89f92e0cb398e070&ei=Ip6WavufDOHBvr0P57eSiQ0&start=10&sa=N&sstk=AS6-VmKsIUiq2GQq8f0VbJgBSSKSW3tNoFf43tJyTENAF1bn8mDDVmPIHh1JQbsoTSjXoNDsgZ59G9QUOm_p3W0XCw7J-F6hNpqkdg&ved=2ahUKEwj7uLXzi82WAxXhoK8BHeebJNEQ8NMDegQIURAW
+      - navigation
+    - contentinfo [ref=f2e1002]:
+      - heading "바닥글 링크" [level=1] [ref=f2e1003]
+      - generic [ref=f2e1007]:
+        - generic [ref=f2e1009]:
+          - text: 대한민국
+          - generic [ref=f2e1011]:
+            - button "홍은동 서울특별시 서대문구 - IP 주소 기반" [ref=f2e1013] [cursor=pointer]:
+              - generic [ref=f2e1014]: 홍은동 서울특별시 서대문구
+              - generic [ref=f2e1016]:
+                - text: "-"
+                - generic [ref=f2e1017]: IP 주소 기반
+            - text: "-"
+            - button "위치 업데이트" [ref=f2e1019] [cursor=pointer]
+        - generic [ref=f2e1022]:
+          - link "도움말" [ref=f2e1023] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=ko&fg=1
+          - link "의견 보내기" [ref=f2e1024] [cursor=pointer]:
+            - /url: "#"
+          - link "개인정보처리방침" [ref=f2e1025] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=ko&fg=1
+          - link "약관" [ref=f2e1026] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=ko&fg=1

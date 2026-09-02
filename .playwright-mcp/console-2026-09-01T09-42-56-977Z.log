@@ -1,0 +1,47 @@
+[    3527ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[    7173ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cdn.adimo.co/scripts/ramsay.min.js:0
+[    7190ms] [WARNING] jQuery.Deferred exception TypeError: Cannot read properties of undefined (reading 'length')
+    at HTMLDocument.<anonymous> (https://www.carnation.co.uk/sites/default/files/js/js_oHqMjE7YN3guzrdhsymM8kd0rBQX9yUnW5nQaKrFOGc.js?scope=footer&delta=2&language=en&theme=wmsc_carnation_theme&include=eJxtkFFywyAMRC9EwjHy3wswa5AJjUAehOO6py92nEzT6c_O20UIiYHxvdphU7Or9QxVTtoOz4Jw4CS8jon5aavkpHS4ivGghYbJBJ2dd3pFpWFuTYra3ZwOZ2KKK2yo8wS-bPxIXAXU7vjRyUSRyOQaoo1d_vozPvH1HmbzmHtbiYvzCdmOM7OrFPtaFS1J2U4CGhgrVfui95juVJqaqSI6P1d2jbTZjU4bmWlR51HL3rFXaJNse3h5Ta_Sn2eXKSTYEZ4GkZtZsvpfF9uVMlmElOWsuPcvgt6o_V8WWQawWeYSqGYU14uf6Q_kH7Po:24:168488)
+    at l (https://www.carnation.co.uk/sites/default/files/js/js_EiQWhrLCTTOuUklLhxDbOprIFD4sIzK1VmHRtW23i58.js?scope=footer&delta=0&language=en&theme=wmsc_carnation_theme&include=eJxtkFFywyAMRC9EwjHy3wswa5AJjUAehOO6py92nEzT6c_O20UIiYHxvdphU7Or9QxVTtoOz4Jw4CS8jon5aavkpHS4ivGghYbJBJ2dd3pFpWFuTYra3ZwOZ2KKK2yo8wS-bPxIXAXU7vjRyUSRyOQaoo1d_vozPvH1HmbzmHtbiYvzCdmOM7OrFPtaFS1J2U4CGhgrVfui95juVJqaqSI6P1d2jbTZjU4bmWlR51HL3rFXaJNse3h5Ta_Sn2eXKSTYEZ4GkZtZsvpfF9uVMlmElOWsuPcvgt6o_V8WWQawWeYSqGYU14uf6Q_kH7Po:28:24969)
+    at c (https://www.carnation.co.uk/sites/default/files/js/js_EiQWhrLCTTOuUklLhxDbOprIFD4sIzK1VmHRtW23i58.js?scope=footer&delta=0&language=en&theme=wmsc_carnation_theme&include=eJxtkFFywyAMRC9EwjHy3wswa5AJjUAehOO6py92nEzT6c_O20UIiYHxvdphU7Or9QxVTtoOz4Jw4CS8jon5aavkpHS4ivGghYbJBJ2dd3pFpWFuTYra3ZwOZ2KKK2yo8wS-bPxIXAXU7vjRyUSRyOQaoo1d_vozPvH1HmbzmHtbiYvzCdmOM7OrFPtaFS1J2U4CGhgrVfui95juVJqaqSI6P1d2jbTZjU4bmWlR51HL3rFXaJNse3h5Ta_Sn2eXKSTYEZ4GkZtZsvpfF9uVMlmElOWsuPcvgt6o_V8WWQawWeYSqGYU14uf6Q_kH7Po:28:25288) undefined @ https://www.carnation.co.uk/sites/default/files/js/js_EiQWhrLCTTOuUklLhxDbOprIFD4sIzK1VmHRtW23i58.js?scope=footer&delta=0&language=en&theme=wmsc_carnation_theme&include=eJxtkFFywyAMRC9EwjHy3wswa5AJjUAehOO6py92nEzT6c_O20UIiYHxvdphU7Or9QxVTtoOz4Jw4CS8jon5aavkpHS4ivGghYbJBJ2dd3pFpWFuTYra3ZwOZ2KKK2yo8wS-bPxIXAXU7vjRyUSRyOQaoo1d_vozPvH1HmbzmHtbiYvzCdmOM7OrFPtaFS1J2U4CGhgrVfui95juVJqaqSI6P1d2jbTZjU4bmWlR51HL3rFXaJNse3h5Ta_Sn2eXKSTYEZ4GkZtZsvpfF9uVMlmElOWsuPcvgt6o_V8WWQawWeYSqGYU14uf6Q_kH7Po:27
+[    7266ms] TypeError: Cannot read properties of undefined (reading 'length')
+    at HTMLDocument.<anonymous> (https://www.carnation.co.uk/sites/default/files/js/js_oHqMjE7YN3guzrdhsymM8kd0rBQX9yUnW5nQaKrFOGc.js?scope=footer&delta=2&language=en&theme=wmsc_carnation_theme&include=eJxtkFFywyAMRC9EwjHy3wswa5AJjUAehOO6py92nEzT6c_O20UIiYHxvdphU7Or9QxVTtoOz4Jw4CS8jon5aavkpHS4ivGghYbJBJ2dd3pFpWFuTYra3ZwOZ2KKK2yo8wS-bPxIXAXU7vjRyUSRyOQaoo1d_vozPvH1HmbzmHtbiYvzCdmOM7OrFPtaFS1J2U4CGhgrVfui95juVJqaqSI6P1d2jbTZjU4bmWlR51HL3rFXaJNse3h5Ta_Sn2eXKSTYEZ4GkZtZsvpfF9uVMlmElOWsuPcvgt6o_V8WWQawWeYSqGYU14uf6Q_kH7Po:24:168488)
+    at l (https://www.carnation.co.uk/sites/default/files/js/js_EiQWhrLCTTOuUklLhxDbOprIFD4sIzK1VmHRtW23i58.js?scope=footer&delta=0&language=en&theme=wmsc_carnation_theme&include=eJxtkFFywyAMRC9EwjHy3wswa5AJjUAehOO6py92nEzT6c_O20UIiYHxvdphU7Or9QxVTtoOz4Jw4CS8jon5aavkpHS4ivGghYbJBJ2dd3pFpWFuTYra3ZwOZ2KKK2yo8wS-bPxIXAXU7vjRyUSRyOQaoo1d_vozPvH1HmbzmHtbiYvzCdmOM7OrFPtaFS1J2U4CGhgrVfui95juVJqaqSI6P1d2jbTZjU4bmWlR51HL3rFXaJNse3h5Ta_Sn2eXKSTYEZ4GkZtZsvpfF9uVMlmElOWsuPcvgt6o_V8WWQawWeYSqGYU14uf6Q_kH7Po:28:24969)
+    at c (https://www.carnation.co.uk/sites/default/files/js/js_EiQWhrLCTTOuUklLhxDbOprIFD4sIzK1VmHRtW23i58.js?scope=footer&delta=0&language=en&theme=wmsc_carnation_theme&include=eJxtkFFywyAMRC9EwjHy3wswa5AJjUAehOO6py92nEzT6c_O20UIiYHxvdphU7Or9QxVTtoOz4Jw4CS8jon5aavkpHS4ivGghYbJBJ2dd3pFpWFuTYra3ZwOZ2KKK2yo8wS-bPxIXAXU7vjRyUSRyOQaoo1d_vozPvH1HmbzmHtbiYvzCdmOM7OrFPtaFS1J2U4CGhgrVfui95juVJqaqSI6P1d2jbTZjU4bmWlR51HL3rFXaJNse3h5Ta_Sn2eXKSTYEZ4GkZtZsvpfF9uVMlmElOWsuPcvgt6o_V8WWQawWeYSqGYU14uf6Q_kH7Po:28:25288)
+[    7279ms] TypeError: Cannot read properties of undefined (reading 'application_id')
+    at window.fbAsyncInit (https://www.carnation.co.uk/sites/default/files/js/js_oHqMjE7YN3guzrdhsymM8kd0rBQX9yUnW5nQaKrFOGc.js?scope=footer&delta=2&language=en&theme=wmsc_carnation_theme&include=eJxtkFFywyAMRC9EwjHy3wswa5AJjUAehOO6py92nEzT6c_O20UIiYHxvdphU7Or9QxVTtoOz4Jw4CS8jon5aavkpHS4ivGghYbJBJ2dd3pFpWFuTYra3ZwOZ2KKK2yo8wS-bPxIXAXU7vjRyUSRyOQaoo1d_vozPvH1HmbzmHtbiYvzCdmOM7OrFPtaFS1J2U4CGhgrVfui95juVJqaqSI6P1d2jbTZjU4bmWlR51HL3rFXaJNse3h5Ta_Sn2eXKSTYEZ4GkZtZsvpfF9uVMlmElOWsuPcvgt6o_V8WWQawWeYSqGYU14uf6Q_kH7Po:23:160)
+    at e.__wrapper.e.__wrapper (https://connect.facebook.net/en_US/bundle/sdk.js/:96:825)
+    at https://connect.facebook.net/en_US/bundle/sdk.js/:234:819
+[    7640ms] [LOG] [Adimo cleaner] script running on case: ready @ :0
+[    7641ms] [LOG] [Adimo cleaner] 1 elements removed for adimo @ :0
+[    7641ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    7662ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    7715ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    7777ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    7820ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    7828ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    8112ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    8244ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[    8246ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    8635ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    9133ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    9150ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[    9791ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   10794ms] [LOG] GTM loaded from Global Conf @ :116
+[   10794ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   10857ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   11838ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   11867ms] [ERROR] Access to script at 'https://cdn.dev.az.ciam.nestle.com/ganalytics/lib/gtm.js' from origin 'https://www.carnation.co.uk' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.carnation.co.uk/recipes/classic-banoffee-pie-recipe:0
+[   11867ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://cdn.dev.az.ciam.nestle.com/ganalytics/lib/gtm.js:0
+[   13072ms] [LOG] onBeforeScreenLoad @ :65
+[   13073ms] [LOG] {eventName: beforeScreenLoad, response: Object, profile: Object, data: Object, subscriptions: Object} @ :66
+[   13079ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   13239ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   13616ms] [LOG] onAfterScreenLoad @ :154
+[   13616ms] [LOG] {eventName: afterScreenLoad, currentScreen: gigya-subscribe-with-email-screen, response: Object, profile: Object, data: Object} @ :155
+[   13618ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   14090ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   15048ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   15052ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   15859ms] [LOG] [Adimo cleaner] script running on case: mo @ :0
+[   18241ms] [LOG] [Adimo cleaner] script running on case: mo @ :0

@@ -1,0 +1,20 @@
+[project]
+name = "mcp-openai-agent"
+version = "0.1.0"
+description = "Week 6 MCP labs for the OpenAI Agents SDK (labs 1-3 notebooks + backend/)"
+requires-python = ">=3.12"
+dependencies = [
+    # notebook imports
+    "python-dotenv>=1.0.1",   # from dotenv import load_dotenv
+    "openai-agents>=0.2.3",   # agents, agents.mcp (MCPServerStdio/StreamableHttp, tool filter)
+    "ipykernel>=6.29.5",      # run .ipynb, IPython.display
+
+    # backend/ package imported by the notebooks
+    "pydantic>=2",            # backend/accounts.py
+    "mcp>=1.0,<2",           # backend uses the v1 FastMCP API (from mcp.server.fastmcp import FastMCP)
+    "massive>=2",             # backend/market.py (RESTClient; imported even on simulator fallback)
+    "requests>=2.32",         # backend/push_server.py (lab2 exercise)
+]
+
+[tool.uv]
+package = false

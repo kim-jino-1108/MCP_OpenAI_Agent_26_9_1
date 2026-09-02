@@ -1,0 +1,281 @@
+- generic [ref=f8e1]:
+  - link "Skip to main content" [ref=f8e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f8e4]:
+    - generic:
+      - generic:
+        - generic [ref=f8e6]:
+          - button "Open navigation" [ref=f8e7] [cursor=pointer]
+          - link [ref=f8e11] [cursor=pointer]:
+            - /url: /
+            - img "Site Logo" [ref=f8e12]
+          - button "Open Search" [ref=f8e13] [cursor=pointer]
+        - generic [ref=f8e14]:
+          - generic [ref=f8e15]:
+            - button "×"
+            - button "Open Search" [ref=f8e16] [cursor=pointer]
+          - navigation "Main navigation" [ref=f8e18]:
+            - list [ref=f8e20]:
+              - listitem [ref=f8e21]:
+                - link "Home" [ref=f8e22] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=f8e23]:
+                - link "Products" [ref=f8e24] [cursor=pointer]:
+                  - /url: /products
+              - listitem [ref=f8e25]:
+                - link "Recipes" [ref=f8e26] [cursor=pointer]:
+                  - /url: /recipes
+              - listitem [ref=f8e27]:
+                - link "Blog" [ref=f8e28] [cursor=pointer]:
+                  - /url: /articles
+              - listitem [ref=f8e29]:
+                - link "About Us" [ref=f8e30] [cursor=pointer]:
+                  - /url: /about-us
+              - listitem [ref=f8e31]:
+                - link "Subscribe" [ref=f8e32] [cursor=pointer]:
+                  - /url: /subscribe
+              - listitem [ref=f8e33]:
+                - link "FAQs" [ref=f8e34] [cursor=pointer]:
+                  - /url: /faq
+    - main [ref=f8e35]:
+      - generic [ref=f8e37]:
+        - generic [ref=f8e38]:
+          - img "Classic Banoffee Pie" [ref=f8e43]
+          - generic [ref=f8e45]:
+            - button "Like Button" [ref=f8e46] [cursor=pointer]
+            - list [ref=f8e48]
+        - generic [ref=f8e49]:
+          - link "# Banoffee" [ref=f8e51] [cursor=pointer]:
+            - /url: /recipes/banoffee
+          - heading "Classic Banoffee Pie" [level=1] [ref=f8e55]
+          - generic [ref=f8e57]:
+            - generic [ref=f8e59]:
+              - img "Time" [ref=f8e60]
+              - generic [ref=f8e61]:
+                - generic [ref=f8e62]: "PREP: 10 mins"
+                - generic [ref=f8e63]: "COOK: 10 mins"
+            - generic [ref=f8e64]:
+              - img "Difficulty" [ref=f8e65]
+              - generic [ref=f8e66]: Quite Easy
+            - generic [ref=f8e68]:
+              - img "serves" [ref=f8e69]
+              - generic [ref=f8e70]: "Serves: 12"
+          - paragraph [ref=f8e77]:
+            - text: If you need a quick version of this recipe why not try our Quick Banoffee Pie recipe
+            - link "here" [ref=f8e78] [cursor=pointer]:
+              - /url: https://www.carnation.co.uk/recipes/quick-and-easy-banoffee-pie-recipe
+          - paragraph [ref=f8e86]: Make a homemade dessert that's sure to have everyone talking with our tempting banoffee pie recipe. Classically delicious, it's a sure favourite of ours here at Carnation and is made with our own creamy Carnation Condensed Milk to make a smooth and golden caramel. An impressive party piece and an ever-popular dessert, you'll be forgiven for thinking that it's difficult to make, but our Banoffee pie recipe is actually incredibly straightforward!
+          - generic [ref=f8e87]: Nutrition and allergy information
+          - link "Print Recipe" [ref=f8e97] [cursor=pointer]:
+            - /url: javascript:void(0);
+        - generic [ref=f8e99]:
+          - generic [ref=f8e100]: Delicious! I made this for my family who loved it, easy steps to follow, great results and would definitely use this recipe again!
+          - generic [ref=f8e101]: Becky B
+          - link "Read more reviews" [ref=f8e105] [cursor=pointer]:
+            - /url: "#reviews"
+      - generic [ref=f8e107]:
+        - generic [ref=f8e108]:
+          - generic [ref=f8e109]:
+            - generic:
+              - heading "Ingredients" [level=2]
+          - generic [ref=f8e110]:
+            - generic:
+              - heading "Method" [level=2]
+        - generic [ref=f8e111]:
+          - generic [ref=f8e112]:
+            - generic [ref=f8e113]:
+              - generic [ref=f8e114]:
+                - paragraph [ref=f8e117]: Butter, melted
+                - generic [ref=f8e118]: 100g
+              - generic [ref=f8e120]:
+                - paragraph [ref=f8e123]: Light digestive biscuits, crushed
+                - generic [ref=f8e124]: 225g
+              - generic [ref=f8e126]:
+                - paragraph [ref=f8e129]: Butter
+                - generic [ref=f8e130]: 75g
+              - generic [ref=f8e132]:
+                - paragraph [ref=f8e135]: Dark brown soft sugar
+                - generic [ref=f8e136]: 75g
+              - generic [ref=f8e138]:
+                - paragraph [ref=f8e141]:
+                  - link "Carnation Condensed Milk" [ref=f8e142] [cursor=pointer]:
+                    - /url: /products/condensed-milk-and-caramel/condensed-milk-tin
+                - generic [ref=f8e143]: 397g
+              - generic [ref=f8e145]:
+                - paragraph [ref=f8e148]: Bananas
+                - generic [ref=f8e149]: "2"
+              - generic [ref=f8e151]:
+                - paragraph [ref=f8e154]: Carton of whipping cream, whipped to soft peaks
+                - generic [ref=f8e155]: 150ml
+              - paragraph [ref=f8e160]: Chocolate shavings or cocoa powder, to dust
+              - paragraph [ref=f8e164]:
+                - strong [ref=f8e165]: You will also need…
+              - paragraph [ref=f8e169]: 20cm loose-bottomed cake tin
+            - link "Print Recipe" [ref=f8e174] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - generic [ref=f8e175]:
+            - generic [ref=f8e176]:
+              - generic [ref=f8e177]:
+                - paragraph [ref=f8e178]: Step 1 of 4
+                - generic [ref=f8e179]:
+                  - iframe [ref=f8e183]:
+                    - generic [ref=f9e1]:
+                      - generic "YouTube 동영상 플레이어" [ref=f9e3]
+                      - generic [ref=f9e5]:
+                        - generic:
+                          - generic:
+                            - generic [ref=f9e6] [cursor=pointer]
+                            - button "동영상 재생" [ref=f9e10] [cursor=pointer]
+                            - button "재생 컨트롤 숨기기" [ref=f9e12] [cursor=pointer]
+                            - generic [ref=f9e14]:
+                              - generic [ref=f9e19]:
+                                - generic [ref=f9e20]:
+                                  - link "Classic Banoffee Pie Recipe" [ref=f9e21] [cursor=pointer]:
+                                    - /url: https://www.youtube.com/watch?v=j2kkd6oMeCI
+                                  - link "Carnation UK Official" [ref=f9e22] [cursor=pointer]:
+                                    - /url: /channel/UCtQ1rWVuO4bSFLSeJcsqrSQ
+                                - generic [ref=f9e24]:
+                                  - button [ref=f9e25] [cursor=pointer]
+                                  - generic [ref=f9e27]:
+                                    - generic: Carnation UK Official
+                                    - generic: 구독자 3.54천명
+                              - generic [ref=f9e28]:
+                                - button "공유" [ref=f9e31] [cursor=pointer]
+                                - link "YouTube에서 보기" [ref=f9e42] [cursor=pointer]:
+                                  - /url: https://www.youtube.com/watch?v=j2kkd6oMeCI
+                                  - generic [ref=f9e43]: "다음에서 보기:"
+                  - paragraph [ref=f8e191]: Watch our quick video to see how quick and easy this Banoffee Pie really is!
+              - generic [ref=f8e192]:
+                - paragraph [ref=f8e193]: Step 2 of 4
+                - generic [ref=f8e194]:
+                  - img "Classic Banoffee Pie Step 1" [ref=f8e198]
+                  - generic [ref=f8e200]:
+                    - paragraph [ref=f8e206]: Put the crushed biscuits into a bowl with the melted butter. Mix it together thoroughly, then press the mixture into the base and sides of the tin. Chill for 10 minutes.
+                    - paragraph [ref=f8e210]: Has your base turned out too crumbly? Be sure to make sure it's well chilled before you go to the next step - you can chill in the freezer if you're short on time!
+              - generic [ref=f8e211]:
+                - paragraph [ref=f8e212]: Step 3 of 4
+                - generic [ref=f8e213]:
+                  - img "Classic Banoffee Pie" [ref=f8e217]
+                  - generic [ref=f8e219]:
+                    - generic [ref=f8e224]:
+                      - paragraph [ref=f8e225]: Place 75g butter and sugar into a heavy based, non-stick saucepan over a low heat, stirring all the time until the sugar has dissolved. Add the condensed milk and bring to a rapid boil for about a minute, stirring all the time for a thick golden caramel. Spread the caramel over the base, cool and then chill for 1 hour.
+                      - paragraph [ref=f8e226]
+                      - paragraph [ref=f8e227]
+                      - paragraph [ref=f8e228]
+                    - paragraph [ref=f8e232]: If your caramel's too runny, you probably didn't get it hot enough. The mixture needs to boil for 1 minute until it starts to thicken, but no more or it may catch and go grainy. To avoid it catching or going grainy, you should always use a heavy based, non-stick pan, keep stirring so it doesn't catch and make sure you use a timer!
+              - generic [ref=f8e233]:
+                - paragraph [ref=f8e234]: Step 4 of 4
+                - generic [ref=f8e235]:
+                  - img "Classic Banoffee Pie" [ref=f8e239]
+                  - paragraph [ref=f8e247]: Carefully remove the pie from the tin and place on a serving plate. Slice the bananas and place on top of the caramel, top with the softly whipped cream. For the perfect finishing touch, dust with cocoa powder or use grated chocolate to decorate the banoffee pie. Chill until ready to serve.
+              - generic [ref=f8e248]:
+                - paragraph [ref=f8e249]: Have you tried making this delicious recipe yet?
+                - paragraph [ref=f8e250]: Let us know by reviewing it below
+            - button "Launch the Wizard" [ref=f8e253] [cursor=pointer]
+          - text: 
+      - generic [ref=f8e256]:
+        - text: Share this page
+        - list [ref=f8e260]:
+          - listitem [ref=f8e261]:
+            - link "Share Button" [ref=f8e262] [cursor=pointer]:
+              - /url: "http://www.facebook.com/share.php?u=https://www.carnation.co.uk/recipes/classic-banoffee-pie-recipe&title=Classic Banoffee Pie "
+              - img "Facebook" [ref=f8e263]
+          - listitem [ref=f8e264]:
+            - link "Share Button" [ref=f8e265] [cursor=pointer]:
+              - /url: https://www.pinterest.com/pin/create/button/
+              - img "Pin it" [ref=f8e266]
+          - listitem [ref=f8e267]:
+            - link "Share Button" [ref=f8e268] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send?text=https://www.carnation.co.uk/recipes/classic-banoffee-pie-recipe
+          - listitem [ref=f8e269]:
+            - link "Share Button" [ref=f8e270] [cursor=pointer]:
+              - /url: mailto:?subject=Classic Banoffee Pie &body=Check out this site https://www.carnation.co.uk/recipes/classic-banoffee-pie-recipe
+              - img "Email" [ref=f8e271]
+      - generic [ref=f8e272]:
+        - heading "Related Recipes" [level=3] [ref=f8e273]
+        - generic [ref=f8e274]:
+          - link "Quick &amp; Easy Banoffee Pie Recipe Quick And Easy Banoffee Pie Recipe" [ref=f8e276] [cursor=pointer]:
+            - /url: /recipes/quick-and-easy-banoffee-pie-recipe
+            - img "Quick &amp; Easy Banoffee Pie Recipe" [ref=f8e284]
+            - generic [ref=f8e285]: Quick And Easy Banoffee Pie Recipe
+          - link "Light Banoffee Pots Light Banoffee Pots" [ref=f8e289] [cursor=pointer]:
+            - /url: /recipes/light-banoffee-pots-recipe
+            - img "Light Banoffee Pots" [ref=f8e297]
+            - generic [ref=f8e298]: Light Banoffee Pots
+          - link "Mini Banoffee Pies Mini Banoffee Pies" [ref=f8e302] [cursor=pointer]:
+            - /url: /recipes/mini-banoffee-pies-recipe
+            - img "Mini Banoffee Pies" [ref=f8e310]
+            - generic [ref=f8e311]: Mini Banoffee Pies
+          - link "Banoffee Ice Cream Sundaes Banoffee Ice Cream Sundae" [ref=f8e315] [cursor=pointer]:
+            - /url: /recipes/banoffee-ice-cream-sundaes-recipe
+            - img "Banoffee Ice Cream Sundaes" [ref=f8e323]
+            - generic [ref=f8e324]: Banoffee Ice Cream Sundae
+    - generic [ref=f8e327]:
+      - generic [ref=f8e328] [cursor=pointer]: Back To Top
+      - generic [ref=f8e331]:
+        - generic [ref=f8e332]:
+          - navigation "Follow us" [ref=f8e333]:
+            - text: Follow us
+            - list [ref=f8e334]:
+              - listitem [ref=f8e335]:
+                - link "Follow us" [ref=f8e336] [cursor=pointer]:
+                  - /url: https://www.facebook.com/carnationuk/
+              - listitem [ref=f8e338]:
+                - link "Follow us" [ref=f8e339] [cursor=pointer]:
+                  - /url: https://www.instagram.com/carnation_uk/
+              - listitem [ref=f8e341]:
+                - link "Follow us" [ref=f8e342] [cursor=pointer]:
+                  - /url: https://www.pinterest.co.uk/carnation0030/
+              - listitem [ref=f8e344]:
+                - link "Follow us" [ref=f8e345] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@carnationuk
+              - listitem [ref=f8e347]:
+                - link "Follow us" [ref=f8e348] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/quickandeasydesserts
+          - navigation "Footer menu" [ref=f8e350]:
+            - list [ref=f8e352]:
+              - listitem [ref=f8e353]:
+                - link "Terms & Conditions" [ref=f8e354] [cursor=pointer]:
+                  - /url: https://www.nestle.co.uk/en-gb/termsandconditions
+              - listitem [ref=f8e355]:
+                - link "Privacy Policy" [ref=f8e356] [cursor=pointer]:
+                  - /url: https://www.nestle.co.uk/en-gb/privacypolicy
+              - listitem [ref=f8e357]:
+                - link "Contact Us" [ref=f8e358] [cursor=pointer]:
+                  - /url: /faq
+              - listitem [ref=f8e359]:
+                - link "Accessibility Statement" [ref=f8e360] [cursor=pointer]:
+                  - /url: https://www.nestle.co.uk/en-gb/info/accessibility
+              - listitem [ref=f8e361]:
+                - link "Cookies" [ref=f8e362] [cursor=pointer]:
+                  - /url: https://www.nestle.co.uk/en-gb/cookies
+              - listitem [ref=f8e363]:
+                - link "RATINGS & REVIEWS POLICY" [ref=f8e364] [cursor=pointer]:
+                  - /url: /ratings-reviews-policy
+          - navigation "Second Footer Menu" [ref=f8e365]:
+            - list [ref=f8e367]:
+              - listitem [ref=f8e368]:
+                - link "Sitemap" [ref=f8e369] [cursor=pointer]:
+                  - /url: /sitemap
+        - generic [ref=f8e370]:
+          - generic [ref=f8e371]: All trademarks and other intellectual property appearing on this site are owned by Société des Produits Nestlé S.A.
+          - generic [ref=f8e372]: Nestlé in the UK & Ireland, Haxby Road, York, YO31 8TA.
+        - link "Carnation" [ref=f8e374] [cursor=pointer]:
+          - /url: /
+  - generic:
+    - region "Cookie banner" [active] [ref=f8e379]:
+      - dialog "Privacy" [ref=f8e380]:
+        - generic [ref=f8e381]:
+          - generic [ref=f8e383]:
+            - img "Company Logo" [ref=f8e385]
+            - generic [ref=f8e386]:
+              - text: By clicking on the "Accept All Cookies" button you consent to the usage of 1st and 3rd party cookies (or similar) in order to enhance your overall web browsing experience, measure our audience, collect useful information to allow us and our partners to provide you with ads tailored to your interests. Learn more on our privacy notice and cookie policy and set your preferences at any time by clicking on the "Cookie Preferences" link on our website.
+              - link "More information about your privacy, opens in a new tab" [ref=f8e387] [cursor=pointer]:
+                - /url: https://www.nestle.co.uk/en-gb/privacypolicy
+                - text: More information
+          - generic [ref=f8e389]:
+            - button "Cookie Preferences" [ref=f8e390] [cursor=pointer]
+            - generic [ref=f8e391]:
+              - button "Reject All" [ref=f8e392] [cursor=pointer]
+              - button "Accept All Cookies" [ref=f8e393] [cursor=pointer]
+    - text: Cookie Preferences
