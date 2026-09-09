@@ -1,1 +1,4 @@
 memory/memory.json
+memory/qdrant/collection/knowledge/storage.sqlite
+memory/qdrant/.lock
+memory/qdrant/meta.json
